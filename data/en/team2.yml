@@ -1,0 +1,60 @@
+############################### team ############################
+team2:
+  enable : true
+  title : Our MP and MSP
+  team_member :
+    # team member loop
+    - name : Alyn Smith
+      image_webp : images/new/alyn.webp
+      image : images/new/alyn.png
+      designation : MP for Stirling
+      content : "Our MP is Alyn Smith who was elected in December 2019.
+        Prior to becoming MP for Stirling, Alyn was one of Scotland's
+        three SNP MEPs in the European parliament. At Westminster he is the shadow SNP Spokesperson
+        (Foreign and Commonwealth Office)\n
+
+        Tel:     : 01786 471899\n
+
+        Email:  alyn.smith.mp@parliament.uk\n
+
+        OFFICE: 16, Stirling Enterprise Park (STEP), Stirling, FK7 7RP  "
+      social :
+        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+          link : https://www.facebook.com/alynsmithSNP/
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : https://twitter.com/AlynSmith?lang=en"
+        - icon : ti-world
+          link : https://alynsmith.scot/
+      #  - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+      #  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+
+    # team member loop
+    - name : Keith Brown
+      image_webp : images/new/keith.webp
+      image : images/new/keith.png
+      designation : MSP for Clackmannanshire and Dunblane
+      content : "Our MSP is Keith Brown. Keith has been an MSP since 2007,
+        when he was first elected for the Ochil constituency.
+        Keith stood down from the Scottish Government in 2018 to focus on his role
+        as deputy leader of the Scottish National Party\n
+
+        Tel:    01259 219333\n
+
+        Email: keith.brown.msp@parliament.scot\n
+
+        OFFICE: Unit 4, 39 Drysdale Street, Alloa, FK10 1LY"
+      social :
+      #  - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/KeithBrownSNP"
+      #  - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+      #  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+        - icon : ti-world
+          link : http://keithbrownmsp.org/
+
+

@@ -1,0 +1,22 @@
+############################# About ###################################
+about:
+  enable : false
+  title : About Us
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : We're Creative
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : We're Professional
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : We're Genius
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - title : We believe in Scotland
+    content : Welcome to the website of the Bridge of Allan & Logie branch of the Scottish National Party. We believe in Scotland being the best it can be. We campaign tirelessly for a fairer, more just and democratic Scotland, in which our children thrive, businesses flourish, our youth receive a world class education, our elder members of society live with the dignity and respect they deserve and in which every man and woman can play their part in the worlds greatest small country.
+
+  - title : Stuff
+    content : We have been active in Bridge of Allan since 1996 and thrive with a healthy membership and a strong core of activists who take part in both local and national campaigning. We were part of Yes Bridge of Allan and Yes Stirling during the 2014 Referendum and we keep the independence flame burning, ready for Indyref2. We were heavily involved in the recent General Election campaign, and were delighted to help our candidate, Alyn Smith, defeat the Tories and win a resounding victory.

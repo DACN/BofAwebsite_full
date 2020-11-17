@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/new/westerton.webp"
+  bg_image : "images/new/westerton.png"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Bridge of Allan & Logie SNP"
+  content : Welcome to the website of the Bridge of Allan & Logie Branch of the Scottish National Party.
+  button:
+    enable : true
+    label : "Explore our Website"
+    link : "#blog"

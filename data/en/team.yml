@@ -1,0 +1,66 @@
+############################### team ############################
+team:
+  enable : true
+  title : Our Councillors
+  team_member :
+    # team member loop
+    - name : Graham Houston
+      image_webp : images/new/graham.webp
+      image : images/new/graham.png
+      designation : Represents Bridge of Allan and Dunblane
+      content : "Graham is currently deputy convenor of Stirling Council\n
+
+        Tel:   01786 233129\n
+
+        Email: houstong@stirling.gov.uk\n"
+      social :
+      #  - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/cooncillor?lang=en"
+        - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+          link : "https://uk.linkedin.com/in/graham-houston-238ba96"
+      #  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+
+    # team member loop
+    - name : Jim Thomson
+      image_webp : images/new/jim.webp
+      image : images/new/jim.png
+      designation : Represents Stirling North
+      content : "Stirling North includes Causewayhead, Blair Logie and the University\n
+
+        Tel:   01786 233132\n
+
+        Email: thomsonj03@stirling.gov.uk\n"
+
+      social :
+      #  - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+      #  - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+      #  - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+      #  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+
+    # team member loop
+    - name : Susan McGill
+      image_webp : images/new/susan.webp
+      image : images/new/susan.jpg
+      designation : Represents Stirling North
+      content : "Stirling North includes Causewayhead, Blair Logie and the University\n
+
+        Tel:   01786 233115\n
+
+        Email: mcgills@stirling.gov.uk\n"
+      social :
+      #  - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+      #  - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+      #  - icon : ti-linkedin # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+      #  - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+      #    link : "#"
+

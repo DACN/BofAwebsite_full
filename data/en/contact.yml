@@ -1,0 +1,32 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : "  "
+
+  # Contact details
+  contact_list:
+  #  - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+  #    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+  #
+  #  - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+  #    info : "Phone: +880-31-000-000"
+  #
+  #  - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+  #    info : "Fax: +880-31-000-000"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "To email us, please fill in the contact form "
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    # form_action : "//formspree.io/secretary@bridgeofallanlogiesnp.org" #contact form works with https://formspree.io
+    form_action : https://formspree.io/f/xqkglgqy
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"
