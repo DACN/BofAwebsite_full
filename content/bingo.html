@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Christmas Party</title>
+
+
+
+
+<script language="JavaScript">
+function get_bingo_card() {
+   var random_num = (Math.floor((Math.random()*500)+1));
+   document.getElementById('log').innerHTML = "<p>Click "
+       + "<a href=\"/cards/bingo_" + random_num + ".pdf\">here</a>"
+       + " to get your BINGO CARD</p>";
+}
+</script>
+</head>
+<body>
+ <body onload="get_bingo_card()">
+<div id="bingo">
+     <div id="log"></div>
+</div>
+
+
+
+</body>
+</html>
