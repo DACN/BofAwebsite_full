@@ -50,6 +50,9 @@
 					<div class="form-group">
 						<textarea rows="6" placeholder="{{ .message }}" class="form-control" name="message" id="message"></textarea>
 					</div>
+					<div class="form-group">
+                        <input type="text" name="_gotcha" style="display:none" />
+					</div>
 					<div id="cf-submit">
 						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block"
 							value="{{ .submit }}">{{ .submit }}</button>
