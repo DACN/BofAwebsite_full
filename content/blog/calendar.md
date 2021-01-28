@@ -16,7 +16,14 @@ you will be able to download and print. Then fold in two,
 Settings for print might vary, but try 'landscape' or 'best fit' it it doesn't come out well. We have provided it
 in two formats
 
-* [pdf](SNP Bridge of a Allan Calendar 2021.pdf)
-* [graphics image](SNP Bridge of a Allan Calendar 2021.png)
+<!-- * ![pdf](images/SNP Bridge of a Allan Calendar 2021.pdf)
+* ![graphics image](images/SNP Bridge of a Allan Calendar 2021.png)
+ -->
+{{< rawhtml >}}
+<ul>
+<li><a href="/images/SNP Bridge of a Allan Calendar 2021.pdf">PDF file</a></li>
+<li><a href="/images/SNP Bridge of a Allan Calendar 2021.png">graphics file</a></li>
+</ul>
+{{< /rawhtml >}}
 
 See which one works best for you
