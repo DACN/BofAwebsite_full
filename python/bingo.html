@@ -10,21 +10,19 @@
 function get_bingo_card() {
    var random_num = (Math.floor((Math.random()*500)+1));
    document.getElementById('log').innerHTML = "<p>Click "
-       + "<a href=\"cards/bingo_" + random_num + ".pdf\">here</a>"
+       + "<a href=\"/cards/bingo_" + random_num + ".pdf\">here</a>"
        + " to get your BINGO CARD</p>";
 }
 </script>
 </head>
 <body>
+<h1>Get Your Bingo Card Here</h1>
  <body onload="get_bingo_card()">
 <div id="bingo">
      <div id="log"></div>
 </div>
 
-      <p>
-         This is the time
-      </p>
-
+<p>If there are two of you playing, you can get two different bingo cards by refreshing this page before clicking 'here' to get a second bingo card</p>
 
 
 </body>
