@@ -89,7 +89,7 @@ Funding to improve Public Realm within Stirling City
 
 
 
-Stirling Council and Committee meetings are available to watch on Stirling Council's website. Contact any of our councillors for assistance. Details on the website.
+Stirling Council and Committee meetings are available to watch on Stirling Council's website. Contact any of our councillors - Susan, Jim or Graham. Contact details on our blog here at https://bridgeofallanlogiesnp.org/#blog under "Our Councillors"
 
 
 
