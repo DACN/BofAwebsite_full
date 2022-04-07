@@ -1,7 +1,7 @@
 ---
 title: "Calendar"
-date: 2021-01-28T15:16:04Z
-image: images/SNP Bridge of a Allan Calendar 2021.png
+date: 2022-01-28T15:16:04Z
+image: images/SNP Bridge of a Allan Calendar 2022.png
 description : "Christmas Fun Night"
 
 ---
@@ -16,13 +16,13 @@ you will be able to download and print. Then fold in two,
 Settings for print might vary, but try 'landscape' or 'best fit' it it doesn't come out well. We have provided it
 in two formats
 
-<!-- * ![pdf](images/SNP Bridge of a Allan Calendar 2021.pdf)
+<!-- * ![pdf](images/SNP Bridge of a Allan Calendar 2022.pdf)
 * ![graphics image](images/SNP Bridge of a Allan Calendar 2021.png)
  -->
 {{< rawhtml >}}
 <ul>
-<li><a href="/images/SNP Bridge of a Allan Calendar 2021.pdf">PDF file</a></li>
-<li><a href="/images/SNP Bridge of a Allan Calendar 2021.png">graphics file</a></li>
+<li><a href="/images/SNP Bridge of Allan Calendar 2022.pdf">PDF file</a></li>
+<li><a href="/images/SNP Bridge of Allan Calendar 2022.png">graphics file</a></li>
 </ul>
 {{< /rawhtml >}}
 
